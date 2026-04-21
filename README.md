@@ -25,6 +25,9 @@
 <!-- #region main -->
 ## 👋 About
 
+> [!IMPORTANT]
+> Unfortunately, the [September 2025 redesign of Komoot](https://newsroom.komoot.com/254260-komoot-unveils-modern-design-as-part-of-ambitious-product-roadmap/) has broken this script, and it currently **does not work**. Support is being added in [#79](https://github.com/twocaretcat/komodo/issues/79), but it will take some time to implement. If you know how to code, feel free to contribute and speed things up!
+
 Using [Komoot](https://www.komoot.com/) for route planning? This script may help. It runs in your browser and adds additional features to the site to help you plan your next adventure.
 
 ### Features
