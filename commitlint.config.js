@@ -2,7 +2,7 @@ import { defineConfig } from 'cz-git';
 
 // @ts-check
 
-const commitScopes = ['tour list', 'tour view', 'tour zoom', 'deps', 'release', 'README', 'site'];
+const commitScopes = ['tour list', 'tour view', 'tour zoom', 'deps', 'deps-dev', 'release', 'README', 'site'];
 
 export default defineConfig({
 	extends: ['@commitlint/config-conventional'],
