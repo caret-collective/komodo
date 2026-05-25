@@ -64,8 +64,7 @@
 		"docs:dev": "vitepress dev docs --port 5174",
 		"docs:develop": "vitepress dev docs --port 5174",
 		"docs:build": "vitepress build docs",
-		"docs:preview": "vitepress preview docs --port 4174",
-		"upgrade-interactive": "bunx npm-check-updates -i --format group -p bun"
+		"docs:preview": "vitepress preview docs --port 4174"
 	},
 	"config": {
 		"commitizen": {
