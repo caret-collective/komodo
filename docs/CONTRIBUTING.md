@@ -1,7 +1,7 @@
 # 🤝 Contributing Guidelines
 
 <!-- #region summary -->
-If you encounter any problems with the script, feel free to [create an issue](https://github.com/twocaretcat/komodo/issues).
+If you encounter any problems with the script, feel free to [create an issue](https://github.com/caret-collective/komodo/issues).
 
 Pull requests, bug reports, translations, and other kinds of contributions are welcome.
 <!-- #endregion summary -->

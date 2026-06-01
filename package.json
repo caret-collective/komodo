@@ -18,7 +18,7 @@
 		"komoot"
 	],
 	"homepage": "https://johng.io/p/komodo",
-	"bugs": "https://github.com/twocaretcat/komodo/issues",
+	"bugs": "https://github.com/caret-collective/komodo/issues",
 	"license": "MIT",
 	"author": {
 		"name": "John Goodliff",
@@ -49,7 +49,7 @@
 	"type": "module",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/twocaretcat/komodo.git"
+		"url": "git+https://github.com/caret-collective/komodo.git"
 	},
 	"scripts": {
 		"dev": "vite",
