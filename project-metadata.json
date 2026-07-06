@@ -2,7 +2,19 @@
 	"$schema": "https://johng.io/schema/project-metadata.json",
 	"name": "Komodo",
 	"tagline": "Mods for Komoot",
+	"background": "Built a TypeScript userscript that extends Komoot with custom route tags for organizing saved tours and completed activities. It enhances Komoot route-planning pages with tag parsing, tag pill rendering, tri-state include/exclude filters, and CSS customization hooks. The project uses Vite, vite-plugin-monkey, and Bun to build the installable userscript for browser userscript managers like Tampermonkey, Greasemonkey, Violentmonkey, and ScriptCat. A VitePress documentation site turns the same README and Markdown guide content into a searchable reference with generated navigation, screenshots, troubleshooting pages, and contributor setup docs.",
 	"logoPath": "src/logo.png",
+	"technologies": ["Bun", "GitHub Actions", "Vite", "Vitepress"],
+	"tools": ["Biome", "Dependabot", "Git", "GitHub", "VS Code"],
+	"topics": [
+		"Automated Releases",
+		"CI/CD",
+		"OSS",
+		"Static Code Analysis",
+		"Technical Documentation",
+		"Web Design",
+		"Version Control"
+	],
 	"category": "Script",
 	"subcategory": "User",
 	"schema": {
